@@ -1,0 +1,65 @@
+- Sach:
+	+ MaSach
+	+ TenSach
+	+ TenTacGia
+	+ NamXuatBan
+	+ GiaBan
+	+ SoLuong
+	+ TheLoai
+	+ NgonNgu
+	+ MoTa
+	+ Avatar
+
+- TacGia:
+	+ MaTacGia
+	+ TenTacGia
+	+ NamSinh
+	+ TieuSu
+	+ Avatar
+	
+- TheLoai
+	+ MaTheLoai
+	+ TenTheLoai
+	+ Avatar
+	
+- KhachHang:
+	+ MaKhachHang
+	+ TenDangNhap
+	+ MatKhau
+	+ HoVaTen
+	+ GioiTinh
+	+ DiaChi
+	+ DiaChiNhanHang
+	+ NgaySinh
+	+ SoDienThoai
+	+ Email
+	+ DangKyNhanBanTinEmail
+
+- DonHang:
+	+ MaDonHang
+	+ KhachHang
+	+ DiaChiHoaDon
+	+ DiaChiNhanHang
+	+ TrangThai
+	+ HinhThucThanhToan
+	+ TrangThaiThanhToan
+	+ TienCoc
+	+ SoTienConThieu
+	+ NgayDatHang
+	+ NgayGiaoHang
+	
+- ChiTietDonHang:
+	+ MaChiTietDonHang
+	+ DonHang
+	+ MaSach
+	+ SoLuong
+	+ GiaBia
+	+ GiaBan
+	+ ThueVAT
+	+ ThanhTien
+	
+- The:
+	+ MaThe
+	+ TenThe
+	+ Avatar
+	+ MoTaThe 
